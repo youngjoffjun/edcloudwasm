@@ -15,8 +15,6 @@ SSPASS = "521723"
 S5HTTPUSER = "admin"
 # S5和HTTP入站验证密码
 S5HTTPPASS = "521723"
-# 付费worker 可设置cpu时间限制
-[limits]
 
 [observability]
 enabled = false
