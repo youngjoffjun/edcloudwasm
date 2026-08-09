@@ -17,7 +17,6 @@ S5HTTPUSER = "admin"
 S5HTTPPASS = "521723"
 # 付费worker 可设置cpu时间限制
 [limits]
-cpu_ms = 300000
 
 [observability]
 enabled = false
